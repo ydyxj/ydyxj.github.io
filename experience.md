@@ -7,8 +7,7 @@ title: Experience
 
 ## Experience & Skills
 
-## RESEARCH EXPERIENCE
-
+## Research Experience
 
 - Conducted neuropsychological assessments and psychotherapeutic interventions for children with learning difficulties or
 developmental disorders. Contributed to independent and collaborative research in the areas of reading development and
@@ -20,10 +19,10 @@ cognitive profiles of children with learning difficulties
 
 
 
-## TEACHING EXPERIENCE
+## Teaching Experience
 - Learning difficulty theory
 
 
-## SKILLS
+## Skills
 - Language Skills: Chinese: Native; ENGLISH: Advanced; Japanese: Advanced
 - Programming & software: Matlab, Python, R, Stata, Adobe Illustrator, E-prime
