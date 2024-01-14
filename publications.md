@@ -28,3 +28,9 @@ Study
 - [The effects of L1 and L2 glosses in modified texts on incidental second language vocabulary acquisition](https://ydyxj.github.io/file/MAthesis.pdf)🔗
 <br>**Dongyang Yan**
 <br>Advisor: [Dr. Cylcia Bolibaugh](https://pure.york.ac.uk/portal/en/persons/cylcia-bolibaugh)
+
+
+## Conference Presentations
+
+- **Yan, D.,** Seki, A. (2023). The Role of Letter-Speech Sound Integration in Native and Second Languages: An ERP Study.
+The 7th Annual Conference for the Association for Reading and Writing in Asia. Virtually. 
