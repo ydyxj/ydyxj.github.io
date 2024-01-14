@@ -7,9 +7,7 @@ layout: page
 <img src="https://ydyxj.github.io/Yan.jpg" class="floatpic" width="360" height="480">
 
 Here is **Dongyang Yan (Susie, 闫冬阳)**.Thank you for visiting my website.
-
 I am a phd student majoring in **Neuropsychology of Learning** at Hokkaido University. 
-
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ydyxj[at]hotmail[dot]com*
 
 ## Academic Background
