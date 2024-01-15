@@ -24,5 +24,5 @@ cognitive profiles of children with learning difficulties
 
 
 ## Skills
-- Language Skills: Chinese: Native; ENGLISH: Advanced; Japanese: Advanced
+- Language Skills: Chinese: Native; English: Advanced; Japanese: Advanced
 - Programming & software: Matlab, Python, R, Stata, Adobe Illustrator, E-prime
