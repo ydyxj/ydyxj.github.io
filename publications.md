@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 15th Jan 2024&nbsp; 
+Lastest Update: 23th Jan 2024&nbsp; 
 
 ## Journal Paper
 Published
@@ -13,7 +13,7 @@ two analysis models and reading acquisition](https://ydyxj.github.io/file/1.pdf)
 Education, Hokkaido University, 140, 1-24. https://doi.org/10.14943/b.edu.140.1 (In Japanese).
 
  Coming soon! 🚀
- - The Role of Letter-Speech Sound Integration in Native and Second Language Reading: A Study in Native Japanese Readers Learning English <br>**Dongyang Yan**, Ayumi Seki<br>Journal of Cognitive Neuroscience (Under Review)
+ - The Role of Letter-Speech Sound Integration in Native and Second Language Reading: A Study in Native Japanese Readers Learning English <br>**Dongyang Yan**, Ayumi Seki<br>Journal of Cognitive Neuroscience (Accepted)
 
 ## Working Manuscript
 In Preparation 
