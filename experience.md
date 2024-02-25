@@ -9,6 +9,8 @@ title: Experience
 
 ## Research Experience
 
+- Worked on fMRI projects focusing on healthy human participants during various cognitive task, overseeing end-to-end processes from fMRI data collection to robust data analysis using SPM (Statistical Parametric Mapping) software.
+
 - Conducted neuropsychological assessments and psychotherapeutic interventions for children with learning difficulties or
 developmental disorders. Contributed to independent and collaborative research in the areas of reading development and
 reading disorders through computerized cognitive testing, and performance validity assessment
