@@ -26,12 +26,14 @@ Thank you for visiting my website.
 - Neurolinguistics
 - Cognitive Neuroscience
 - Neurobiology
+- Neuronal Oscillation
 - Second language acquisition
 - Reading
 - Multisensory integration
 - M/EEG, fMRI
 
-My research focused on investigating the brain activation associated with reading, particularly the impact of language proficiency on brain network changes. Recently, I am interested in using **multi-modal imaging techniques** to understand the neurobiological substrate underlying language functions, with a particular focus on **second language processing**.
+
+My research focused on investigating the brain activation associated with reading, particularly the impact of language proficiency on brain network changes. Recently, I am interested in using **multi-modal imaging techniques** and **phase amplitude coupling methods** to understand the neurobiological substrate underlying **language functions**, with a particular focus on **second language processing**.
 
 
 

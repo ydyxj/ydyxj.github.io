@@ -12,15 +12,18 @@ Published
 two analysis models and reading acquisition](https://ydyxj.github.io/file/1.pdf)🔗 (a peer-reviewed journal)<br>**Dongyang Yan**<br>Bulletin of Faculty of
 Education, Hokkaido University, 140, 1-24. https://doi.org/10.14943/b.edu.140.1 (In Japanese).
 
- Coming soon! 🚀
- - The Role of Letter-Speech Sound Integration in Native and Second Language Reading: A Study in Native Japanese Readers Learning English <br>**Dongyang Yan**, Ayumi Seki<br>Journal of Cognitive Neuroscience (In press)
+ - The Role of Letter-Speech Sound Integration in Native and Second Language Reading: A Study in Native Japanese Readers Learning English <br>**Dongyang Yan**, Ayumi Seki<br>Journal of Cognitive Neuroscience ([In press](https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_02137/119830))
+
 
 ## Working Manuscript
 In Preparation 
+
+Coming soon! 🚀
 - Letter-Speech Sound Congruency Differentially Modulates Theta and Beta-Band Powers and Coherences: An EEG 
 Study
 
-- Temporal Asynchrony affects Letter-Speech Sound Integration in Second Language Reading: A Study of Event-Related Potentials and Inter-trial Phase Coherence
+
+- Temporal Asynchrony affects Letter-Speech Sound Integration in Second Language Reading: A Study of Event-Related Potentials 
 
 
 ## Master Thesis
@@ -31,6 +34,7 @@ Study
 
 
 ## Conference Presentations
+- **Yan, D.,**  Seki, A. (2024). Differential Modulation of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration. The 8th Annual Conference for the Association for Reading and Writing in Asia. Jeju, Korea.
 
 - **Yan, D.,** Seki, A. (2023). The Role of Letter-Speech Sound Integration in Native and Second Languages: An ERP Study.
 The 7th Annual Conference for the Association for Reading and Writing in Asia. Virtually. 
