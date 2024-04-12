@@ -13,9 +13,9 @@ Thank you for visiting my website.
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for postdoc starting in 2024 Fall or 2025 Spring. Contact me if you have any interest.**
+**<font color='red'>[Highlight]</font> I am looking for postdoc starting in 2025 Spring or 2025 Fall. Contact me if you have any interest.**
 
-- **Mar 2020 - expected, Sep 2024:**  Hokkaido University (Phd)
+- **Mar 2020 - expected, Dec 2024:**  Hokkaido University (Phd)
 - **Sep 2014 - Jan 2016:** University of York (MA)
 - **Sep 2010 - Jul 2014:** Zhengzhou University (BA)
 
