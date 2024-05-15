@@ -34,7 +34,7 @@ In Preparation
 
 
 ## Conference Presentations
-- **Yan, D.,**  Seki, A. (2024). Differential Modulation of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration. The 8th Annual Conference for the Association for Reading and Writing in Asia. Jeju, Korea.
+- **Yan, D.,**  Seki, A. (2024). [Differential Modulation of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration.](https://ydyxj.github.io/file/poster.pdf) 🔗 The 8th Annual Conference for the Association for Reading and Writing in Asia. Jeju, Korea. 
 
 - **Yan, D.,** Seki, A. (2023). The Role of Letter-Speech Sound Integration in Native and Second Languages: An ERP Study.
 The 7th Annual Conference for the Association for Reading and Writing in Asia. Virtually. 

@@ -15,9 +15,12 @@ Thank you for visiting my website.
 
 **<font color='red'>[Highlight]</font> I am looking for postdoc starting in 2025 Spring or 2025 Fall. Contact me if you have any interest.**
 
-- **Mar 2020 - expected, Dec 2024:**  Hokkaido University (Phd)
-- **Sep 2014 - Jan 2016:** University of York (MA)
-- **Sep 2010 - Jul 2014:** Zhengzhou University (BA)
+
+ **Apr 2020 - expected, Dec 2024:**  Hokkaido University (Phd)
+
+ **Sep 2014 - Jan 2016:** University of York (MA)
+
+**Sep 2010 - Jul 2014:** Zhengzhou University (BA)
 
 
 
@@ -39,7 +42,7 @@ My research focused on investigating the brain activation associated with readin
 
 ## News and Updates
 
-- **Feb 2024：** Very excited to attend [ARWA 2024 Conference](https://www.arwasia.org/arwa-2024), see you in Jeju Island, South Korea!  **<font color='red'>Please find my poster</font> [here](https://ydyxj.github.io/file/poster.pdf) 🔗** 
+- **Feb 2024：** Very excited to attend [ARWA 2024 Conference](https://www.arwasia.org/arwa-2024), see you in Jeju Island, South Korea!  
 
 - **Jan 2024：** Our paper entitled “The Role of Letter-Speech Sound Integration in Native and Second Language Reading: A Study in Native Japanese Readers Learning English” was accepted for publication in Journal of Cognitive Neuroscience. 
 
