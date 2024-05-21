@@ -17,7 +17,7 @@ owner:
   # linkedin: Dongyang Yan
   scholar: https://scholar.google.com/citations?user=UuFIcC8AAAAJ&hl=zh-CN&citsig=AM0yFCnQkJsMTt_EvqEGk2y2hLOx
   # bilibili: 
-  # researchgate: 
+  researchgate: https://www.researchgate.net/profile/Dongyang_Yan2
   # zhihu: 
   # facebook: 
   # instagram: 
@@ -87,3 +87,6 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 # Latest update in 2023/12/10 by Hanlin Cai.
+
+#  <img src = "https://upload.wikimedia.org/wikipedia/zh/thumb/2/22/Hokkaido_University.svg/280px-Hokkaido_University.svg.png" width = "50" hight = "25"><font size='3'> 
+ 
