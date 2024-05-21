@@ -18,7 +18,8 @@ Education, Hokkaido University, 140, 1-24. https://doi.org/10.14943/b.edu.140.1 
  
 
  <br>**Coming soon!** 🚀
-- Letter-Speech Sound Congruency Differentially Modulates Theta and Beta-Band Powers and Coherences: An EEG Study (Under review)
+- Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech
+ Sound Integration (Under review)
 
 ## Working Manuscript
 In Preparation 
