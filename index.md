@@ -42,6 +42,8 @@ My research focused on investigating the brain activation associated with readin
 
 ## News and Updates
 
+- **Sept 2024：** Our paper entitled “Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration” was accepted for publication in European Journal of Neuroscience. 
+
 - **Feb 2024：** Very excited to attend [ARWA 2024 Conference](https://www.arwasia.org/arwa-2024), see you in Jeju Island, South Korea!  
 
 - **Jan 2024：** Our paper entitled “The Role of Letter-Speech Sound Integration in Native and Second Language Reading: A Study in Native Japanese Readers Learning English” was accepted for publication in Journal of Cognitive Neuroscience. 
