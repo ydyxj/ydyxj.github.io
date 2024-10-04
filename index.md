@@ -16,7 +16,7 @@ Thank you for visiting my website.
 **<font color='red'>[Highlight]</font> I am looking for postdoc starting in 2025 Spring or 2025 Fall. Contact me if you have any interest.**
 
 
- **Apr 2020 - expected, Dec 2024:**  Hokkaido University (Phd)
+ **Apr 2020 - expected, Mar 2025:**  Hokkaido University (Phd)
 
  **Sep 2014 - Jan 2016:** University of York (MA)
 
@@ -36,7 +36,7 @@ Thank you for visiting my website.
 - M/EEG, fMRI
 
 
-My research focused on investigating the brain activation associated with reading, particularly the impact of language proficiency on brain network changes. Recently, I am interested in using **multi-modal imaging techniques** and **phase amplitude coupling methods** to understand the neurobiological substrate underlying **language functions**, with a particular focus on **second language processing**.
+My research focused on investigating the brain activation associated with reading, particularly the impact of language proficiency on brain network changes. Recently, I am interested in using **MEG** or **multi-modal imaging techniques** and **phase amplitude coupling methods** to understand the neurobiological substrate underlying **multisensory perception, speech, and language language functions**.
 
 
 
