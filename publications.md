@@ -10,10 +10,10 @@ Lastest Update: 23th Sept 2024&nbsp;
 <br>**Published**
 - [A systematic review of letter-speech sound integration:
 two analysis models and reading acquisition](https://ydyxj.github.io/file/1.pdf)🔗 (a peer-reviewed journal)<br>**Dongyang Yan**<br>Bulletin of Faculty of
-Education, Hokkaido University, 140, 1-24. https://doi.org/10.14943/b.edu.140.1 (In Japanese).
+Education, Hokkaido University, 140, 1-24. (In Japanese).
 
  - [The Role of Letter-Speech Sound Integration in Native and Second Language Reading: A Study in Native Japanese Readers Learning English](https://ydyxj.github.io/file/journal1.pdf) 🔗<br>**Dongyang Yan**, Ayumi Seki<br>Journal of Cognitive Neuroscience, 36 (6), 1123–1140. 
- https://doi.org/10.1162/jocn_a_02137
+
  
  - Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech
  Sound Integration (Accepted)
