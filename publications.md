@@ -15,9 +15,8 @@ Education, Hokkaido University, 140, 1-24. (In Japanese).
  - [The Role of Letter-Speech Sound Integration in Native and Second Language Reading: A Study in Native Japanese Readers Learning English](https://ydyxj.github.io/file/journal1.pdf) 🔗<br>**Dongyang Yan**, Ayumi Seki<br>Journal of Cognitive Neuroscience, 36 (6), 1123–1140. 
 
  
- - Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech
- Sound Integration (Accepted)
- <br>**Dongyang Yan**, Ayumi Seki<br>
+ - [Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration](https://ydyxj.github.io/file/journal2.pdf)🔗
+<br>**Dongyang Yan**, Ayumi Seki<br>
 European Journal of Neuroscience
 
 
