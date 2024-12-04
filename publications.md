@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 23th Sept 2024&nbsp; 
+Lastest Update: 3rd Dec 2024&nbsp; 
 
 ## Journal Paper
 <br>**Published**
@@ -17,14 +17,13 @@ Education, Hokkaido University, 140, 1-24. (In Japanese).
  
  - [Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration](https://ydyxj.github.io/file/journal2.pdf)🔗
 <br>**Dongyang Yan**, Ayumi Seki<br>
-European Journal of Neuroscience
+European Journal of Neuroscience, 60(11), 6720–6733.
 
 
 ## Working Manuscript
 <br>**Coming soon!** 🚀
 
-In Preparation 
-
+Under review 
 - Temporal Asynchrony affects Letter-Speech Sound Integration in Second Language Reading
 
 
