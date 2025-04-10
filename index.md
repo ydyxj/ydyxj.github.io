@@ -7,16 +7,16 @@ layout: page
 <img src="https://ydyxj.github.io/Yan.jpg" class="floatpic" width="360" height="480">
 
 - Here is **Dongyang Yan (Susie, 闫冬阳)**. 
-I am a phd student majoring in **Neuropsychology of Learning** at Hokkaido University. 
 Thank you for visiting my website. 
 - If you are interested in any aspect of my work, I would be delighted to engage in a discussion and explore potential collaboration opportunities, please email me at - *ydyxj[at]hotmail[dot]com*
 
+## Research Experience
+
+**Apr 2025 - Current:** The University of Tokyo ([Postdoc](https://www.brain.ipc.i.u-tokyo.ac.jp/en/)) 
+
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for postdoc starting in 2025 Spring or 2025 Fall. Contact me if you have any interest.**
-
-
- **Apr 2020 - expected, Mar 2025:**  Hokkaido University (Phd)
+ **Apr 2020 - Mar 2025:**  Hokkaido University (Phd)
 
  **Sep 2014 - Jan 2016:** University of York (MA)
 
@@ -31,8 +31,7 @@ Thank you for visiting my website.
 - Neurobiology
 - Neuronal Oscillation
 - Second language acquisition
-- Reading
-- Multisensory integration
+- Multisensory perception/integration
 - M/EEG, fMRI
 
 
@@ -41,7 +40,7 @@ My research focused on investigating the brain activation associated with readin
 
 
 ## News and Updates
-
+- **Apr 2025：** I am starting a postdoctoral position at the University of Tokyo. 
 - **Sept 2024：** Our paper entitled “Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration” was accepted for publication in European Journal of Neuroscience. 
 
 - **Feb 2024：** Very excited to attend [ARWA 2024 Conference](https://www.arwasia.org/arwa-2024), see you in Jeju Island, South Korea!  
