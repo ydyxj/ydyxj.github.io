@@ -19,8 +19,8 @@ Thank you for visiting my website.
  **Apr 2020 - Mar 2025:**  Hokkaido University (Phd)
 
  **Sep 2014 - Jan 2016:** University of York (MA)
-
-**Sep 2010 - Jul 2014:** Zhengzhou University (BA)
+ 
+ **Sep 2010 - Jul 2014:** Zhengzhou University (BA)
 
 
 
@@ -40,7 +40,7 @@ My research focused on investigating the brain activation associated with readin
 
 
 ## News and Updates
-- **Apr 2025：** I am starting a postdoctoral position at the University of Tokyo. 
+- **Apr 2025：** I am starting my postdoc at the University of Tokyo. 
 - **Sept 2024：** Our paper entitled “Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration” was accepted for publication in European Journal of Neuroscience. 
 
 - **Feb 2024：** Very excited to attend [ARWA 2024 Conference](https://www.arwasia.org/arwa-2024), see you in Jeju Island, South Korea!  
