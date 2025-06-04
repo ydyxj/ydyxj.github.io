@@ -35,7 +35,7 @@ Thank you for visiting my website.
 - M/EEG, fMRI
 
 
-My research focused on investigating the brain activation associated with reading, particularly the impact of language proficiency on brain network changes. Recently, I am interested in using **MEG** or **multi-modal imaging techniques** and **phase amplitude coupling methods** to understand the neurobiological substrate underlying **multisensory perception, speech, and language language functions**.
+My research previously focused on investigating the brain activation associated with reading, particularly the impact of language proficiency on brain network changes. Recently, I am interested in using **MEG** or **multi-modal imaging techniques** and **phase amplitude coupling methods** to understand the neurobiological substrate underlying **multisensory perception and cross-modal interaction**.
 
 
 
