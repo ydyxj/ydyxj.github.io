@@ -40,6 +40,8 @@ My research previously focused on investigating the brain activation associated 
 
 
 ## News and Updates
+- **Jan 2026：** I have been selected as a JSPS Postdoctoral Fellow (外国人特別研究員), starting in April 2026.
+
 - **Apr 2025：** I am starting my postdoc at the University of Tokyo. 
 
 - **Sept 2024：** Our paper entitled “Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration” was accepted for publication in European Journal of Neuroscience. 
