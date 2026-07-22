@@ -8,28 +8,29 @@ Lastest Update: 3rd Dec 2024&nbsp;
 
 ## Journal Paper
 <br>**Published**
- - [Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration](https://ydyxj.github.io/file/journal2.pdf)🔗
+- Temporal Asynchrony affects Letter-Speech Sound Integration in Second Language Reading (2026)
+<br>**Dongyang Yan**, Ayumi Seki<br>
+Brain and Language (in press)
+
+ - [Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration](https://ydyxj.github.io/file/journal2.pdf)🔗(2024)
 <br>**Dongyang Yan**, Ayumi Seki<br>
 European Journal of Neuroscience, 60(11), 6720–6733.
 
+ - [The Role of Letter-Speech Sound Integration in Native and Second Language Reading: A Study in Native Japanese Readers Learning English](https://ydyxj.github.io/file/journal1.pdf) 🔗(2024)<br>**Dongyang Yan**, Ayumi Seki<br>Journal of Cognitive Neuroscience, 36 (6), 1123–1140. 
+
+
 - [A systematic review of letter-speech sound integration:
-two analysis models and reading acquisition](https://ydyxj.github.io/file/1.pdf)🔗 (a peer-reviewed journal)<br>**Dongyang Yan**<br>Bulletin of Faculty of
+two analysis models and reading acquisition](https://ydyxj.github.io/file/1.pdf)🔗 (2022) (a peer-reviewed journal)<br>**Dongyang Yan**<br>Bulletin of Faculty of
 Education, Hokkaido University, 140, 1-24. (In Japanese).
 
- - [The Role of Letter-Speech Sound Integration in Native and Second Language Reading: A Study in Native Japanese Readers Learning English](https://ydyxj.github.io/file/journal1.pdf) 🔗<br>**Dongyang Yan**, Ayumi Seki<br>Journal of Cognitive Neuroscience, 36 (6), 1123–1140. 
 
  
-
-
 
 ## Working Manuscript
 <br>**Coming soon!** 🚀
 
-In revision 
-- Temporal Asynchrony affects Letter-Speech Sound Integration in Second Language Reading
-
-In preparation
-- Frequency-Modulated Sounds Synchronize Neural Oscillations to Optimize Visual Perception
+Under review
+- Frequency-Modulated Sounds Shape Neural Phase Dynamics to Modulate Visual Perception
 
 ## Master Thesis
 

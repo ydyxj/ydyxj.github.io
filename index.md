@@ -40,6 +40,8 @@ My research previously focused on investigating the brain activation associated 
 
 
 ## News and Updates
+- **Jul 2026：** Our paper entitled “Temporal Asynchrony Affects Letter-Speech Sound Integration in Second Language Reading” was accepted for publication in Brain and Language. 
+
 - **Jan 2026：** I have been selected as a JSPS International Research Fellow (外国人特別研究員), starting in April 2026.
 
 - **Apr 2025：** I am starting my postdoc at the University of Tokyo. 
