@@ -37,19 +37,51 @@ Thank you for visiting my website.
 
 My research previously focused on investigating the brain activation associated with reading, particularly the impact of language proficiency on brain network changes. Recently, I am interested in using **MEG** or **multi-modal imaging techniques** and **phase amplitude coupling methods** to understand the neurobiological substrate underlying **multisensory perception and cross-modal interaction**.
 
+<style>
+.news-scroll {
+  height: 260px;              /* 固定窗口高度，可自行调整 */
+  overflow-y: auto;           /* 内容过多时显示纵向滚动条 */
+  padding: 15px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 8px;
+  background-color: #fafafa;
+  box-sizing: border-box;
+  scrollbar-gutter: stable;
+}
 
+.news-scroll ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 20px;
+}
+
+.news-scroll li {
+  margin-bottom: 14px;
+  line-height: 1.6;
+}
+
+.news-scroll li:last-child {
+  margin-bottom: 0;
+}
+</style>
 
 ## News and Updates
-- **Jul 2026：** Our paper entitled “Temporal Asynchrony Affects Letter-Speech Sound Integration in Second Language Reading” was accepted for publication in Brain and Language. 
 
-- **Jan 2026：** I have been selected as a JSPS International Research Fellow (外国人特別研究員), starting in April 2026.
+<div class="news-scroll" markdown="1">
 
-- **Apr 2025：** I am starting my postdoc at the University of Tokyo. 
+- **Jul 2026:** Our paper entitled “Temporal Asynchrony Affects Letter-Speech Sound Integration in Second Language Reading” was accepted for publication in *Brain and Language*.
 
-- **Sept 2024：** Our paper entitled “Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration” was accepted for publication in European Journal of Neuroscience. 
+- **Jan 2026:** I have been selected as a JSPS International Research Fellow (外国人特別研究員), starting in April 2026.
 
-- **Feb 2024：** Very excited to attend [ARWA 2024 Conference](https://www.arwasia.org/arwa-2024), see you in Jeju Island, South Korea!  
+- **Apr 2025:** I am starting my postdoc at the University of Tokyo.
 
-- **Jan 2024：** Our paper entitled “The Role of Letter-Speech Sound Integration in Native and Second Language Reading: A Study in Native Japanese Readers Learning English” was accepted for publication in Journal of Cognitive Neuroscience. 
+- **Sept 2024:** Our paper entitled “Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration” was accepted for publication in *European Journal of Neuroscience*.
+
+- **Feb 2024:** Very excited to attend [ARWA 2024 Conference](https://www.arwasia.org/arwa-2024), see you in Jeju Island, South Korea!
+
+- **Jan 2024:** Our paper entitled “The Role of Letter-Speech Sound Integration in Native and Second Language Reading: A Study in Native Japanese Readers Learning English” was accepted for publication in *Journal of Cognitive Neuroscience*.
+
+</div>
+
 
 
