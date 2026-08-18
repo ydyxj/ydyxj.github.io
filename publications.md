@@ -4,13 +4,13 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 3rd Dec 2024&nbsp; 
+Lastest Update: 18th Aug 2026&nbsp; 
 
 ## Journal Paper
 <br>**Published**
-- Temporal Asynchrony affects Letter-Speech Sound Integration in Second Language Reading (2026)
+- [Temporal Asynchrony affects Letter-Speech Sound Integration in Second Language Reading](https://ydyxj.github.io/file/journal3.pdf)🔗(2026)
 <br>**Dongyang Yan**, Ayumi Seki<br>
-Brain and Language (in press)
+Brain and Language, 281, 105816.
 
  - [Differential Modulations of Theta and Beta Oscillations by Audiovisual Congruency in Letter-Speech Sound Integration](https://ydyxj.github.io/file/journal2.pdf)🔗(2024)
 <br>**Dongyang Yan**, Ayumi Seki<br>
@@ -31,6 +31,8 @@ Education, Hokkaido University, 140, 1-24. (In Japanese).
 
 Under review
 - Frequency-Modulated Sounds Shape Neural Phase Dynamics to Modulate Visual Perception
+
+- Trial-by-Trial Prestimulus Alpha Phase Predicts Early Letter-Speech Sound Integration in Second-Language Reading
 
 ## Master Thesis
 
