@@ -10,18 +10,32 @@ layout: page
 Thank you for visiting my website. 
 - If you are interested in any aspect of my work, I would be delighted to engage in a discussion and explore potential collaboration opportunities, please email me at - *ydyxj[at]hotmail[dot]com*
 
-## Research Experience
+<h2>Research Experience</h2>
 
-**Apr 2025 - Current:** The University of Tokyo ([Postdoc](https://www.brain.ipc.i.u-tokyo.ac.jp/en/)) 
+<table>
+  <tr>
+    <td style="width: 180px;"><strong>Apr 2025 – Current</strong></td>
+    <td>The University of Tokyo (<a href="https://www.brain.ipc.i.u-tokyo.ac.jp/en/">Postdoc</a>)</td>
+  </tr>
+</table>
 
-## Academic Background
 
-**Apr 2020 - Mar 2025:**  Hokkaido University (Phd)
+<h2>Academic Background</h2>
 
-**Sep 2014 - Jan 2016:** University of York (MA)
- 
-**Sep 2010 - Jul 2014:** Zhengzhou University (BA)
-
+<table>
+  <tr>
+    <td style="width: 180px;"><strong>Apr 2020 – Mar 2025</strong></td>
+    <td>Hokkaido University (PhD)</td>
+  </tr>
+  <tr>
+    <td style="width: 180px;"><strong>Sep 2014 – Jan 2016</strong></td>
+    <td>University of York (MA)</td>
+  </tr>
+  <tr>
+    <td style="width: 180px;"><strong>Sep 2010 – Jul 2014</strong></td>
+    <td>Zhengzhou University (BA)</td>
+  </tr>
+</table>
 
 
 ## Research Interests
@@ -34,8 +48,7 @@ Thank you for visiting my website.
 - Multisensory perception/integration
 - M/EEG, fMRI
 
-
-My research previously focused on investigating the brain activation associated with reading, particularly the impact of language proficiency on brain network changes. Recently, I am interested in using **MEG** or **multi-modal imaging techniques** and **phase amplitude coupling methods** to understand the neurobiological substrate underlying **multisensory perception and cross-modal interaction**.
+My research focuses on the neural mechanisms underlying **multisensory perception and cross-modal interactions**, ranging from basic sensory stimuli to higher-level linguistic stimuli. I am particularly interested in how internal and external factors shape cross-modal processing. I have investigated multisensory integration using M/EEG, with a focus on event-related potentials, neural oscillations, cross-frequency coupling, and functional connectivity. In the future, I am interested in combining **M/EEG** with **multimodal neuroimaging approaches**, including diffusion MRI (dMRI), to better understand the neurobiological mechanisms and brain networks underlying multisensory perception and cross-modal interactions.
 
 <style>
 .news-scroll {
